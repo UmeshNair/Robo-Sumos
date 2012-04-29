@@ -23,7 +23,105 @@ Technologies Used:-
 3) XBEE
 
 
+
 Installation Instructions:-
+
+
+Installing Matlab on Windows
+
+Before beginning, make sure you have:
+
+• A working internet connection
+
+• At least 4.5 GB free space on your hard drive
+
+To install Matlab:
+
+1. Point your web browser to http://software.brown.edu.
+
+2. Under All Distributed Software, click on Windows.
+
+3. From the list of software, ?nd Matlab R2010b and click on it.
+
+4. Read the license agreement and click “I have read the support and
+licensing statements and I’m ready to download Matlab.”
+
+5. Login with your Brown authID (for example: jdoe1) and password.
+
+6. Follow the instructions on the CIS download page to install either
+the 32-bit or 64-bit version of Matlab, using the default settings. If
+you don’t know for certain that you’re running on a 64-bit machine,
+download the 32-bit version.
+
+
+
+You can now run MATLAB from your own computer while you’re on the
+Brown network. 
+
+(Note that to use MATLAB in class, you will need to either plug your laptop into an
+ethernet port (there is one for every seat), connect to the Brown Secure wireless network,
+or use a VPN connection (see below)).
+
+
+
+Connecting to the Brown-Secure Wireless Network
+on Windows
+
+1. Go To CIS and download ”SecureW2”
+
+2. Install ”SecureW2” (May Require Restart)
+
+3. Open ”Control Panel”
+
+4. Open ”Network Connections”
+
+5. Right-Click on your ”Wireless Network Connection” and select ”Prop-
+erties”
+
+6. Select the ”Wireless Networks” Tab
+
+7. ”Brown-Secure” Should be on the ”Preferred Networks” List
+
+8. Select ”Brown-Secure” and Press ”Properties”
+
+9. Select the ”Authentication” Tab
+
+10. Make Sure ”EAP type:” is set to ”SecureW2”, if not select it from the
+list.
+
+11. Select ”OK”
+
+12. Select ”View Wireless Networks”
+
+13. Double Click on ”Brown-Secure” (Press Refresh if its not on the list)
+
+14. Within a few moments, a balloon will pop up on the start menu, Click
+on it.
+
+15. In the box that pops up, enter your standard brown username and
+password.
+
+16. Check the ”Save Credentials” box for automatic connection later.
+
+17. Presto! You are now Connected to the Brown-Secure Network.
+
+Installing Matlab at Home
+
+
+
+Setting up a VPN connection
+
+1. Go to CIS and download ”Cisco VPN Client”
+
+2. After connecting to the Brown wireless network, open the VPN client
+
+3. Select the connection entry ”Brown” and press ”Connect”
+
+4. Type in your authID and password
+
+5. There are additional support resources at the bottom of the download
+page that will help you get VPN started if you have trouble.
+
 
 
 
