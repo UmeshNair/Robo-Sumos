@@ -8,6 +8,35 @@ Vinod Salunke
 
 K.C. College Of Engineering,Thane(E)
 
-About the Project:-
+
+Project Description:-
 
 Robo-sumo is a sport in which two autonomous robots attempt to push each other out of a circular ring.This project makes use of Image Processing using MATLAB and Wireless Data Transmission using XBEE.
+An overhead camera takes an image of the entire arena along with the robots on it.Then, using Image processing in MATLAB, we determine the position of both the robots and the angles required for each of them to face each other.These angles are sent through XBEE to the corresponding robots after which they rotate by that angle and then move forward to push the opponent.
+This project also makes use of AVR Studio to write the C code that is eventually burnt onto the robots using AVR BootLoader.
+
+
+Technologies Used:-
+
+1) Embedded C
+2) MATLAB
+3) XBEE
+
+
+Installation Instructions:-
+
+
+
+
+References:-
+
+[1] Tennis Ball Collector Robot By E-Yantra Team: http://www.e-yantra.org/ci/projects/code/73
+
+[2] Image Processing using MATLAB: http://www.mathworks.in/matlabcentral/
+
+[3] Robert M. Haralick, “Computer and Robot Vision”
+
+[4] Nichu sebe Michel S Lew.,Thomas S Haung: “Computer vision in human-computer interaction”
+
+[5] Hardware and Software manuals of Spark V
+
